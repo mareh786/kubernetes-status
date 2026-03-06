@@ -1,7 +1,7 @@
 #!/bin/bash
 
 # --- CONFIGURATION ---
-WEBHOOK_URL="https://default6432230809a947a38c1cb82871d605.68.environment.api.powerplatform.com:443/powerautomate/automations/direct/workflows/3e2569d19fc8433b85a1746afb37fcde/triggers/manual/paths/invoke?api-version=1&sp=%2Ftriggers%2Fmanual%2Frun&sv=1.0&sig=qIqI3tBZpeYDONNFrZuqzWlsXOGdsezzn7Wjj_fIc6s"
+WEBHOOK_URL="https://default6432230809a947a38c1cb82871d605.68.environment.api.powerplatform.com:443/powerautomate/automations/direct/workflows/3e2569d19fc8433b85a1746afb37fcde/triggers/manual/paths/invoke?api-version=1&sp=%2Ftriggers%2Fmanual%2Frun&sv=1.0&sig=qIqI3tBZpeYDONNFrZuqzW"
 CLUSTER_NAME=$(hostname)
 
 # --- CHECK FOR DOWN NODES ---
